@@ -1,0 +1,508 @@
+id: 7a7cdb01e7b5496e9d065b5d92f5ae3a
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  34625026c7db42f28a2491b6dcfea1ec:
+    span:
+      start: 53440
+      end: 54890
+    metadata: {}
+    page_info: null
+    imgnum: 40
+    reference: EP7E228DA4DF48786E
+  977bfce298d1465491638b573c640e44:
+    span:
+      start: 25376
+      end: 26818
+    metadata: {}
+    page_info: null
+    imgnum: 20
+    reference: EP4DB97746D4B02F34
+  a1a93ae8b2474a469346d4e365abc922:
+    span:
+      start: 39690
+      end: 41112
+    metadata: {}
+    page_info: null
+    imgnum: 30
+    reference: EPB3FEBD3AD77F7320
+  3f5cd13a70564add95fae735cf02f8ef:
+    span:
+      start: 41114
+      end: 42590
+    metadata: {}
+    page_info: null
+    imgnum: 31
+    reference: EP856AE4E4C7579420
+  5026a6e66fa34e77bfe856f6f0811b38:
+    span:
+      start: 49063
+      end: 50536
+    metadata: {}
+    page_info: null
+    imgnum: 37
+    reference: EPD3FF8FE10C92E11E
+  3dcc4bfc2d2b4a909e3caadc905e21f3:
+    span:
+      start: 26820
+      end: 28327
+    metadata: {}
+    page_info: null
+    imgnum: 21
+    reference: EP4F8528578ACF9677
+  56792f8c50e14aaf838920cf5842d681:
+    span:
+      start: 74334
+      end: 75772
+    metadata: {}
+    page_info: null
+    imgnum: 55
+    reference: EP2C3D4F0A1F77DF7A
+  1b9246f189ca46be96117c083cc86afa:
+    span:
+      start: 0
+      end: 18
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EPEC4823A906986BDE
+  ed4ce8e2dbab4f02be1de58aa4010a79:
+    span:
+      start: 64916
+      end: 66348
+    metadata: {}
+    page_info: null
+    imgnum: 48
+    reference: EP0BBB4764D3EF132C
+  b07d39241e2f40dba08777d05cd86746:
+    span:
+      start: 31207
+      end: 32643
+    metadata: {}
+    page_info: null
+    imgnum: 24
+    reference: EPC999EF55BB54C219
+  a190bde95ae34f7490a51dce6a831bf0:
+    span:
+      start: 69984
+      end: 71408
+    metadata: {}
+    page_info: null
+    imgnum: 52
+    reference: EP03C6DD0097096300
+  40e1a9678e774c88bf57407437582bd0:
+    span:
+      start: 19956
+      end: 21505
+    metadata: {}
+    page_info: null
+    imgnum: 16
+    reference: EP1A4281146D1BB199
+  876131fb5d894f84a756e892621e8f84:
+    span:
+      start: 20
+      end: 1477
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP2D53AE3A45967E38
+  5d3766271fde4d5086ede1f584365a60:
+    span:
+      start: 33840
+      end: 35377
+    metadata: {}
+    page_info: null
+    imgnum: 26
+    reference: EP8E62324E02DDD2B4
+  21a4505f3e164043b7b953e758cbe1b3:
+    span:
+      start: 47646
+      end: 49061
+    metadata: {}
+    page_info: null
+    imgnum: 36
+    reference: EP8738D3D602D54E65
+  3b98798ec4114218ac33aaf29a72273e:
+    span:
+      start: 58920
+      end: 60349
+    metadata: {}
+    page_info: null
+    imgnum: 44
+    reference: EP9A9C6330F796D970
+  73e6aae2e9f74dfdaeb47a81a559f00a:
+    span:
+      start: 36813
+      end: 38265
+    metadata: {}
+    page_info: null
+    imgnum: 28
+    reference: EP7FACFCC74641F265
+  c10aa54a9a134193a98dac33b1d4700e:
+    span:
+      start: 63407
+      end: 64914
+    metadata: {}
+    page_info: null
+    imgnum: 47
+    reference: EP4F77523EB6B0AD68
+  73171715bc1648fd8386e1af4afb6f7a:
+    span:
+      start: 66350
+      end: 67827
+    metadata: {}
+    page_info: null
+    imgnum: 49
+    reference: EP7053479C1037A93C
+  7b8b8febd7e946f1ba0b649422f1e5b2:
+    span:
+      start: 35379
+      end: 36811
+    metadata: {}
+    page_info: null
+    imgnum: 27
+    reference: EP65FFB35923157581
+  694dce4b62f04512a1c0a2ea224d010a:
+    span:
+      start: 44072
+      end: 45491
+    metadata: {}
+    page_info: null
+    imgnum: 33
+    reference: EPFB9584FED71ECF67
+  2df32086603f46a79870db3c068c74fa:
+    span:
+      start: 2973
+      end: 4416
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EP131273BE7C871218
+  55abbae321bd425bb300f7f5d75f8992:
+    span:
+      start: 8810
+      end: 10340
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EP5BCA5C490024BAF1
+  51e854dec8c0435e83b2ba42df08e8ba:
+    span:
+      start: 22450
+      end: 23904
+    metadata: {}
+    page_info: null
+    imgnum: 18
+    reference: EPFECAA48F0B3C547F
+  3af43391941e4b73beaa8c5eca25a042:
+    span:
+      start: 28329
+      end: 29768
+    metadata: {}
+    page_info: null
+    imgnum: 22
+    reference: EP597AAD3850D29135
+  720872b9bbab4f0fbed8118964b53809:
+    span:
+      start: 16989
+      end: 18417
+    metadata: {}
+    page_info: null
+    imgnum: 14
+    reference: EPB5752C919817D547
+  40e04b3c6571442f80947fa627510125:
+    span:
+      start: 4418
+      end: 5902
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EP3C74D2E1BAF7C4B0
+  e9a836784d97457ca9e0c782d153784b:
+    span:
+      start: 11215
+      end: 12642
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EP49004D9377D21921
+  343c6c9cfb0545148250bbb3653d3529:
+    span:
+      start: 75774
+      end: 77223
+    metadata: {}
+    page_info: null
+    imgnum: 56
+    reference: EP911CE26EC57605FF
+  f79a4a4129c2499382624346a16f8ab4:
+    span:
+      start: 82613
+      end: 84064
+    metadata: {}
+    page_info: null
+    imgnum: 61
+    reference: EPB9EDFD7908FCECBC
+  b7be8c5ab5be424bb7803782b12362ff:
+    span:
+      start: 46162
+      end: 47644
+    metadata: {}
+    page_info: null
+    imgnum: 35
+    reference: EPE410BEAEA1924AF8
+  dd552e6ef39444dbbacf710b31827980:
+    span:
+      start: 77225
+      end: 78744
+    metadata: {}
+    page_info: null
+    imgnum: 57
+    reference: EP9383E2C4EB3DF449
+  e8a3c40aaadd4ac28acfb1b43c710809:
+    span:
+      start: 12644
+      end: 14075
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP06B86FCF9C870A53
+  652d3e94bb9648aba735acc1314af5d3:
+    span:
+      start: 71410
+      end: 72879
+    metadata: {}
+    page_info: null
+    imgnum: 53
+    reference: EP7C2E0DA3E39D2426
+  1e4e3d9218814697ad7b0b75a258f5f8:
+    span:
+      start: 38267
+      end: 39688
+    metadata: {}
+    page_info: null
+    imgnum: 29
+    reference: EP7B3CF320F846D8CD
+  8badd6baf3c64d19be3c0cd0b5c44ed6:
+    span:
+      start: 5904
+      end: 7344
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EP0C1BB8BE6496B015
+  6b90f2ac07544bffa84551ca39c17462:
+    span:
+      start: 67829
+      end: 68540
+    metadata: {}
+    page_info: null
+    imgnum: 50
+    reference: EPE7B6E039C890F1BD
+  ff04d31567b54da68b5ad3d5300ce332:
+    span:
+      start: 54892
+      end: 56349
+    metadata: {}
+    page_info: null
+    imgnum: 41
+    reference: EP51A80CD0176DF836
+  8bbc833246f24674be97bc78903e20de:
+    span:
+      start: 60351
+      end: 61854
+    metadata: {}
+    page_info: null
+    imgnum: 45
+    reference: EP2AEB331512C2D207
+  ee578abb1f4c4cf281b88f2558a9ae5b:
+    span:
+      start: 81141
+      end: 82611
+    metadata: {}
+    page_info: null
+    imgnum: 60
+    reference: EP45ECBBB5D6834057
+  bd290d9b569541fa92baba2d088c99a6:
+    span:
+      start: 78746
+      end: 79704
+    metadata: {}
+    page_info: null
+    imgnum: 58
+    reference: EP95641C398EEEF222
+  f0f69aeaacd946a7abedb37abfbf3ec6:
+    span:
+      start: 57482
+      end: 58918
+    metadata: {}
+    page_info: null
+    imgnum: 43
+    reference: EP453CFD24F34B4645
+  456e1fe22c5c44d8b12c02c4fcdda16e:
+    span:
+      start: 50538
+      end: 51963
+    metadata: {}
+    page_info: null
+    imgnum: 38
+    reference: EP47B7A1DD8A716922
+  8cf991e8a3ed41da83fbafb35c054d5f:
+    span:
+      start: 72881
+      end: 74332
+    metadata: {}
+    page_info: null
+    imgnum: 54
+    reference: EP47C8E6C338C62E99
+  c49df064dcd14814bb82b472685c0bb5:
+    span:
+      start: 29770
+      end: 31205
+    metadata: {}
+    page_info: null
+    imgnum: 23
+    reference: EP4D88232B5A66CB07
+  e0215ca6804246b998f946530233c46d:
+    span:
+      start: 42592
+      end: 44070
+    metadata: {}
+    page_info: null
+    imgnum: 32
+    reference: EP701377613B92CA1D
+  fb2cc478a3b44335a68a459a4ef4153f:
+    span:
+      start: 10342
+      end: 11213
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EPCA1237A0EF95DB0B
+  f8c4d2e3b211481db6898900e6e4c01b:
+    span:
+      start: 84066
+      end: 85540
+    metadata: {}
+    page_info: null
+    imgnum: 62
+    reference: EP0258CE0829A8B9B6
+  76d4c8003f074cf6b0c984bcde0d0ee2:
+    span:
+      start: 51965
+      end: 53438
+    metadata: {}
+    page_info: null
+    imgnum: 39
+    reference: EP011B1C931BC77EBC
+  8b3f7e96030e454b954e01177b141603:
+    span:
+      start: 1479
+      end: 2971
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EP2AECBA4709FB3E4F
+  55a749b29162454297e1a28586a81a67:
+    span:
+      start: 85542
+      end: 86873
+    metadata: {}
+    page_info: null
+    imgnum: 63
+    reference: EP2E0CB97933AC1662
+  a4928b6e4efb44f08f90745826f2b98c:
+    span:
+      start: 15532
+      end: 16987
+    metadata: {}
+    page_info: null
+    imgnum: 13
+    reference: EP85CF2A415FED9AFF
+  12ec3c69d3464a908b4e60249b447545:
+    span:
+      start: 21507
+      end: 22448
+    metadata: {}
+    page_info: null
+    imgnum: 17
+    reference: EPCA4B031CA88E9E9F
+  0ea19525b364458fbf064c4760a1cb4f:
+    span:
+      start: 56351
+      end: 57480
+    metadata: {}
+    page_info: null
+    imgnum: 42
+    reference: EPEA6CB864678517F0
+  6a071ab6e6dd4dd682b0dbfd96846421:
+    span:
+      start: 14077
+      end: 15530
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP3A3E0FE7E717FF2E
+  7b0e9abdea7e48b1905ce5f36f874c02:
+    span:
+      start: 7346
+      end: 8808
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EPACAF9E7F1FA6558A
+  98ba9879bad44ee8b7cd605b13f6e7e8:
+    span:
+      start: 68542
+      end: 69982
+    metadata: {}
+    page_info: null
+    imgnum: 51
+    reference: EP35D293F6E4D41561
+  a1640c6f1af149b59224a7c257f3697b:
+    span:
+      start: 32645
+      end: 33838
+    metadata: {}
+    page_info: null
+    imgnum: 25
+    reference: EP3EA429D9AE711E8E
+  13c4b52013a44d558e314295fc1bc764:
+    span:
+      start: 79706
+      end: 81139
+    metadata: {}
+    page_info: null
+    imgnum: 59
+    reference: EPA88E282E301445FF
+  90a35d7d2ee34ce48693222930587aef:
+    span:
+      start: 45493
+      end: 46160
+    metadata: {}
+    page_info: null
+    imgnum: 34
+    reference: EPE9803784F20B4A80
+  a852b8f8363f48fc8df03c8e698f91eb:
+    span:
+      start: 23906
+      end: 25374
+    metadata: {}
+    page_info: null
+    imgnum: 19
+    reference: EP50AFF1AEC3BC1361
+  59e065cfe881462ea2e7e07675a8b7a6:
+    span:
+      start: 61856
+      end: 63405
+    metadata: {}
+    page_info: null
+    imgnum: 46
+    reference: EP582093D5C51E8A9B
+  c4fda7fc56084345a1a8e7e1b522ec9a:
+    span:
+      start: 18419
+      end: 19954
+    metadata: {}
+    page_info: null
+    imgnum: 15
+    reference: EP35B159EC02C874DB
